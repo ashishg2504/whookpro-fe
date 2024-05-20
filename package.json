@@ -1,0 +1,37 @@
+{
+  "name": "WHookPro",
+  "version": "1.0.0",
+  "description": "App for WHookPro",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "@material-ui/data-grid": "^4.0.0-alpha.37",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.57",
+    "@types/styled-components": "5.1.7",
+    "axios": "^1.6.8",
+    "moment": "^2.30.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-icons": "^5.0.1",
+    "react-json-view": "^1.21.3",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.0",
+    "react-toastify": "^9.0.3",
+    "styled-component": "^2.8.0",
+    "styled-components": "5.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
